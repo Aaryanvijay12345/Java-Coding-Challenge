@@ -1,3 +1,5 @@
+// This questions check whether the string is pallindrome or not
+
 import java.util.*;
 
 public class Palindrome {
