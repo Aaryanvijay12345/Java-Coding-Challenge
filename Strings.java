@@ -10,5 +10,13 @@ public class Strings {
         String name;
         name = sc.nextLine();
         System.out.println(name);
+        System.err.println(name.length());
+
+        // Concatanation
+        String firstName = "Aaryan";
+        String secondName = "Vijay";
+        String fullName = firstName + " " + secondName;
+        System.out.println(fullName);
+
     }
 }
